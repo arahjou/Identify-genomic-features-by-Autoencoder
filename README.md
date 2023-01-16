@@ -13,7 +13,7 @@ Our recent advancement in unsupervised image classification methods inspired me 
 
 ## Converting DNA sequences to image in R
 1) The idea is to read the reference genome in fasta format (for example:https://ftp.ensembl.org/pub/release-108/fasta/drosophila_melanogaster/) and convert a, t, c and g to a vector or list containing integers (1, 2, 3, 4).
-2) Converting vector or list to array.
+2) Converting vector or list to array: array dimentions
 3) Converting array to .png images.
 
 File:
