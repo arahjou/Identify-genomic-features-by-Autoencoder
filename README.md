@@ -9,7 +9,7 @@ Deoxyribonucleic acid (DNA) is a polymer composed of adenine (A) or thymine (T),
 
 Our recent advancement in unsupervised image classification methods inspired me to use these methods to identify genomic features by converting genetic information to arrays or figures. Then use the generated dataset to train a neural network and extract recognized genomic features and classify the segmented genomic by k-mean clustering. 
 
-![alt text](https://drive.google.com/file/d/1d-ZqycyrYn2tHEub4sEr-RBi2UlwQy4D/view?usp=share_link)
+![alt text](https://db3pap006files.storage.live.com/y4m3maGE76ySwNzy9fb3_UsoEq2H5UCNwDLYmiAo_nSZK0sFMJcTeAioVNaZeCVR92HYEqG9ZSRZ3b40zWh-w1py-51R_V9m8LlfU8GOBy5wWLSw5rZqfRhkkt8-tuD7qYnwOmZu9qhPR3f_RHL7vhzFOi3BmL5gZkyOIIZ335vsqjYkUsXl1IkUQFkg925p2sd?width=1522&height=507&cropmode=none)
 
 ## Converting DNA sequences to array
 The idea is to read refernce geneome in fasta format ( for example:https://ftp.ensembl.org/pub/release-108/fasta/drosophila_melanogaster/) and convert a, t, c and g to a vector or list containing integers (1, 2, 3, 4).
