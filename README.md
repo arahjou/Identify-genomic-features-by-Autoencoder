@@ -16,11 +16,9 @@ Our recent advancement in unsupervised image classification methods inspired me 
 2) Converting vector or list to array: array dimentions
 3) Converting array to .png images.
 
-File:
+Codes in R:
 ```
-{
 # codes
-}
 ```
 ## Image Pre-processing
 - Bluring:
