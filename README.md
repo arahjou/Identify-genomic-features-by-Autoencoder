@@ -64,8 +64,9 @@ if (b > Final.number) {
 }
 ```
 ## Image Pre-processing
+- Cropping and resizing
 - Bluring:
-- Edge detection:
+- Detecting edges:
 
 ## Projects:
 #### Discovering features of DNA sequences: 
