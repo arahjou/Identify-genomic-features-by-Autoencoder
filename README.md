@@ -19,3 +19,8 @@ Our recent advancement in unsupervised image classification methods inspired me 
 File:
 
 ## Image Pre-processing
+
+## Projects:
+### Discovering features of DNA sequences: 
+#### Fixed frame: 
+#### Shifting frame:
