@@ -24,5 +24,7 @@ File:
 
 ## Projects:
 ### Discovering features of DNA sequences: 
-#### Fixed frame: 
-#### Shifting frame:
+- Fixed frame: 
+- Shifting frame:
+### Identifying DNA from different species:
+### Adding bigwig information on top of DNA sequence frame:
