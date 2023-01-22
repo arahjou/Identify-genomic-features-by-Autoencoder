@@ -17,7 +17,11 @@ Our recent advancement in unsupervised image classification methods inspired me 
 3) Converting array to .png images.
 
 File:
-
+```
+{
+# codes
+}
+```
 ## Image Pre-processing
 - Bluring:
 - Edge detection:
