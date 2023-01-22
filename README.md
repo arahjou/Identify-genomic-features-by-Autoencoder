@@ -19,6 +19,8 @@ Our recent advancement in unsupervised image classification methods inspired me 
 File:
 
 ## Image Pre-processing
+### **bold text** Bluring:
+### **bold text** Edge detection:
 
 ## Projects:
 ### Discovering features of DNA sequences: 
