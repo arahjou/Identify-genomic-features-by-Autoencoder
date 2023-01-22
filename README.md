@@ -22,8 +22,7 @@ Codes in R:
 library(seqinr)
 
 #loading DNA sequence in fasta format
-DF = read.fasta(file = "/Users/arahjou/Downloads/Drosophila_melanogaster.BDGP6.32.dna.toplevel.fa.gz")
-DF = read.fasta(file = "/Users/arahjou/Library/CloudStorage/OneDrive-SharedLibraries-Onedrive/2023\ Projects/Genomic\ Image\ classification/Drosophila_melanogaster.BDGP6.32.dna.toplevel.fa.gz")
+DF = read.fasta(file = "PATH/Drosophila_melanogaster.BDGP6.32.dna.toplevel.fa.gz")
 
 # Take a look at the number of base pairs
 length(DF$`2L`)
