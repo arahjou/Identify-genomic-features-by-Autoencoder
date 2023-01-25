@@ -129,6 +129,33 @@ plt.show()#
 ```
 ![alt text](xxxxxx)
 
+```
+# Cropping image
+cropped_image = img[58:407, 59:450]
+# Resizing image
+resized_image = cv.resize(cropped_image,(100, 100))
+# Changing color panel
+image = cv.cvtColor(resized_image,cv.COLOR_BGR2RGB)
+# Bluring image by cv.medianBlur function
+median_image3 = cv.medianBlur(resized_image,3)
+median_image5 = cv.medianBlur(resized_image,5)
+median_image7 = cv.medianBlur(resized_image,7)
+median_image9 = cv.medianBlur(resized_image,9)
+# Plotting blured image
+plt.subplot(151),plt.imshow(image),plt.title('1')
+plt.xticks([]), plt.yticks([])
+plt.subplot(152),plt.imshow(median_image3),plt.title('3')
+plt.xticks([]), plt.yticks([])
+plt.subplot(153),plt.imshow(median_image5),plt.title('5')
+plt.xticks([]), plt.yticks([])
+plt.subplot(154),plt.imshow(median_image7),plt.title('7')
+plt.xticks([]), plt.yticks([])
+plt.subplot(155),plt.imshow(median_image9),plt.title('9')
+plt.xticks([]), plt.yticks([])
+plt.show()
+```
+![alt text](xxxxxx)
+
 - Detecting edges:
 
 ## Projects:
