@@ -103,7 +103,31 @@ plt.show()
 ![alt text](xxxxxx)
 
 ```
+# Cropping image
+cropped_image = img[58:407, 59:450]
+# Resizing image
+resized_image = cv.resize(cropped_image,(100, 100))
+# Changing color panel
+image = cv.cvtColor(resized_image,cv.COLOR_BGR2RGB)
+# Bluring image by cv.GaussianBlur function
+gaussianblur_image3 = cv.GaussianBlur(resized_image,(3,3),0)
+gaussianblur_image5 = cv.GaussianBlur(resized_image,(5,5),0)
+gaussianblur_image7 = cv.GaussianBlur(resized_image,(7,7),0)
+gaussianblur_image9 = cv.GaussianBlur(resized_image,(9,9),0)
+# Plotting blured image
+plt.subplot(151),plt.imshow(image),plt.title('1')
+plt.xticks([]), plt.yticks([])
+plt.subplot(152),plt.imshow(gaussianblur_image3),plt.title('3')
+plt.xticks([]), plt.yticks([])
+plt.subplot(153),plt.imshow(gaussianblur_image5),plt.title('5')
+plt.xticks([]), plt.yticks([])
+plt.subplot(154),plt.imshow(gaussianblur_image7),plt.title('7')
+plt.xticks([]), plt.yticks([])
+plt.subplot(155),plt.imshow(gaussianblur_image9),plt.title('9')
+plt.xticks([]), plt.yticks([])
+plt.show()#
 ```
+![alt text](xxxxxx)
 
 - Detecting edges:
 
