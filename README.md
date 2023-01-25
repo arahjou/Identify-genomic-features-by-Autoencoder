@@ -64,12 +64,11 @@ if (b > Final.number) {
 }
 ```
 ## Image Pre-processing
-- Cropping and resizing:
+- Cropping, resizing and bluring::
 
 Coding in python:
 ```
 ```
-- Bluring:
 - Detecting edges:
 
 ## Projects:
