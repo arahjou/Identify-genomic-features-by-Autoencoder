@@ -68,7 +68,43 @@ if (b > Final.number) {
 
 Coding in python:
 ```
+# Loading packages
+import cv2 as cv
+import numpy as np
+from matplotlib import pyplot as plt
+#Loading image
+img = cv.imread('PATH/bin10001.png')
 ```
+```
+# Cropping image
+cropped_image = img[58:407, 59:450]
+# Resizing image
+resized_image = cv.resize(cropped_image,(200, 200))
+# Changing color panel
+image = cv.cvtColor(resized_image,cv.COLOR_BGR2RGB)
+# Bluring image by cv.blur function
+blur_image3 = cv.blur(image,(3,3))
+blur_image5 = cv.blur(image,(5,5))
+blur_image7 = cv.blur(image,(7,7))
+blur_image9 = cv.blur(image,(9,9))
+# Plotting blured image
+plt.subplot(151),plt.imshow(image),plt.title('1')
+plt.xticks([]), plt.yticks([])
+plt.subplot(152),plt.imshow(blur_image3),plt.title('3')
+plt.xticks([]), plt.yticks([])
+plt.subplot(153),plt.imshow(blur_image5),plt.title('5')
+plt.xticks([]), plt.yticks([])
+plt.subplot(154),plt.imshow(blur_image7),plt.title('7')
+plt.xticks([]), plt.yticks([])
+plt.subplot(155),plt.imshow(blur_image9),plt.title('9')
+plt.xticks([]), plt.yticks([])
+plt.show()
+```
+![alt text](xxxxxx)
+
+```
+```
+
 - Detecting edges:
 
 ## Projects:
