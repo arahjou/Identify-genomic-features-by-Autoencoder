@@ -158,8 +158,6 @@ plt.show()
 ```
 ![alt text](https://db3pap006files.storage.live.com/y4mcQnadOznKLVbZPOr-9wmSPBT0m8fKuBCP5oiTNZu4VTU-J0i7TnybnYa5ljiyVvhUTDMKnWyLhZmCQufsXmO94S33hr-86AeN0zAWeNljIHk0N0Xk5GqoMZKlrBC0M4nCN8M9PEkE81CIlsika6G7pYM6V20BbF0KvFAendwfY_zMyPU-XQK1kdVH6ysrxp1?width=352&height=91&cropmode=none)
 
-- Detecting edges:
-
 ## Projects:
 #### Discovering features of DNA sequences: 
 - Fixed frame: 
