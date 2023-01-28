@@ -127,7 +127,7 @@ plt.subplot(155),plt.imshow(gaussianblur_image9),plt.title('9')
 plt.xticks([]), plt.yticks([])
 plt.show()#
 ```
-![alt text](xxxxxx)
+![alt text]([xxxxxx](https://db3pap006files.storage.live.com/y4mv2MJAfAEyrhRQqfs_WUqr4JjmwrL0z0A_wV3hK6G6PkBkmR5Xryw_lfgTXAA_mo67Fp9XNVCdi0EnVBpAn03SKMlXDCflliSEpetZ9ByR7SEYliba46Z1WDzMvm2Txe63uiFKDoTgonjhP_YclKAi14qpI2b_SwrLNubl-9bTFdZCc9h7KAIawIjdZYqs_bH?width=352&height=91&cropmode=none))
 
 ```
 # Cropping image
@@ -154,7 +154,7 @@ plt.subplot(155),plt.imshow(median_image9),plt.title('9')
 plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![alt text](xxxxxx)
+![alt text](xxhttps://db3pap006files.storage.live.com/y4mcQnadOznKLVbZPOr-9wmSPBT0m8fKuBCP5oiTNZu4VTU-J0i7TnybnYa5ljiyVvhUTDMKnWyLhZmCQufsXmO94S33hr-86AeN0zAWeNljIHk0N0Xk5GqoMZKlrBC0M4nCN8M9PEkE81CIlsika6G7pYM6V20BbF0KvFAendwfY_zMyPU-XQK1kdVH6ysrxp1?width=352&height=91&cropmode=nonexxxx)
 
 - Detecting edges:
 
