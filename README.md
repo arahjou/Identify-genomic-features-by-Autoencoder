@@ -75,7 +75,7 @@ from matplotlib import pyplot as plt
 #Loading image
 img = cv.imread('PATH/bin10001.png')
 ```
-## Blurring by the purpose of a better feature visulaiztion 
+## Improving Feature Visualization through Blurring Techniques 
 Blurring can be a useful pre-processing technique for improving feature visualization in CNNs. By reducing fine details and emphasizing larger structures in an image, a CNN is better able to identify key features. However, in this specific project, I used blurring for a different purpose. In this project, blurring was used as a pre-processing technique on generated images from DNA sequences, where the combination of adjacent pixels created patterns that aid in identifying repeated sequences as a feature, thus helping in the analysis of genetic data.
 ```
 # Cropping image
