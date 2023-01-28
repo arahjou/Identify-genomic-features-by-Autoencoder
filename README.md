@@ -100,7 +100,7 @@ plt.subplot(155),plt.imshow(blur_image9),plt.title('9')
 plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![alt text](xxxxxx)
+![alt text](https://db3pap006files.storage.live.com/y4mfJo5n2a1L9iDKiNSrMpFbfDtj8ZYVLuWquqeC8vgSYdFq_kTMzQrZnm1DTh7W9EXg0EIbkQn_3eIk1XCDLCfgSlL8gSYmzXeOkYuHeaLGNrghCSSJNmfVjR_Ywg0ppC2E-HgG0RnCBuKWCR7VVG1WTABd2GXVShDU_pfGwkICnIwFZ5wRGEAjIECofH1wLbe?width=352&height=91&cropmode=none)
 
 ```
 # Cropping image
