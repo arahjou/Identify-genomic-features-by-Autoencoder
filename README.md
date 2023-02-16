@@ -29,3 +29,5 @@ Autoencoders, on the other hand, are neural networks that can learn non-linear f
 In addition, autoencoders can also be used for tasks such as denoising or inpainting, which can help to improve the quality of the input data and further enhance the performance of downstream analysis methods such as clustering.
 
 Therefore, while PCA is a simple and widely used method for dimensionality reduction, autoencoders can be a more powerful alternative when dealing with complex, non-linear datasets.
+
+![Alternate image text](https://db3pap006files.storage.live.com/y4ml3hLWBUUV46_i7xo2EI0frAdCxcH1mrl0a45zDiBIjp0h8U1vo2JvV3c99_neEWCrt11tzRkZO6QdMtl0gn2rgH5L-aF_-N8SP96m5emob0vaXETGY9l7f_Cf91WqL3Iw5ZT1CpX5VrqgNL1BZUf9FeSQvQA33qHnFWKKOJNXTy4JI3f2YGaOZ6_08sRj4G_?width=1657&height=1521&cropmode=none)
