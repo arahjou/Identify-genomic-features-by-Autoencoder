@@ -1,5 +1,5 @@
 # Identify-genomic-features-by-Autoencoder
-This is just an experimental approach to convert DNA sequences into images or arrays. Additionally, I used generated-images to train a deep learning algorithm by this hope that model can identify DNA feature without any data labeling. Also, I would also like to mention that using ChatGPT to review my code and explore alternative options greatly accelerated this project.
+This represents an experimental approach to convert DNA sequences into images or arrays. Moreover, I leveraged generated images to train a neural network algorithm for identifying DNA features without requiring any data labeling. Also, I would also like to mention that using ChatGPT to review my code and explore alternative options greatly accelerated this project.
 
 Berlin, 2023
 Dr. Ali Rahjouei
