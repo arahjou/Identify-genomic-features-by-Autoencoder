@@ -1,10 +1,10 @@
-# Identify-genomic-features-by-CNN
-This is just an experimental approach to convert DNA sequences into images or arrays. Additionally, I used generated-images to train a deep learning algorithm by this hope that model can identify DNA feature without any data labeling.
+# Identify-genomic-features-by-Autoencoder
+This is just an experimental approach to convert DNA sequences into images or arrays. Additionally, I used generated-images to train a deep learning algorithm by this hope that model can identify DNA feature without any data labeling. Also, I would also like to mention that using ChatGPT to review my code and explore alternative options greatly accelerated this project.
 
-Berlin,, 2023
+Berlin, 2023
 Dr. Ali Rahjouei
 
-## Using Autoencoders to Discover Patterns in DNA Sequences: Implications for Genetics and Computer Vision
+# Using Autoencoders to Discover Patterns in DNA Sequences: Implications for Genetics and Computer Vision
 
 #### Introduction:
 
