@@ -2,6 +2,7 @@
 This represents an experimental approach to convert DNA sequences into images or arrays. Moreover, I leveraged generated images to train a neural network algorithm for identifying DNA features without requiring any data labeling. Also, I would also like to mention that using ChatGPT to review my code and explore alternative options greatly accelerated this project.
 
 Berlin, 2023
+
 Dr. Ali Rahjouei
 
 # Using Autoencoders to Discover Patterns in DNA Sequences: Implications for Genetics and Computer Vision
